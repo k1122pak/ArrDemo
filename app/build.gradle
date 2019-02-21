@@ -32,7 +32,7 @@ dependencies {
 task createPom << {
     pom {
         project {
-            groupId 'org.example'
+            groupId 'com.example.ets_1023.arrdemo'
             artifactId 'test'
             version '1.0.0'
 
